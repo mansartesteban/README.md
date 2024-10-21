@@ -1,7 +1,7 @@
 <h1 align="center">Esteban Mansart</h1>
 
 <p align="center" style="border-radius: 8px">
-<img src="https://github.com/user-attachments/assets/759c76ea-21a1-4491-802e-cdddf8e470de" alt="Photo de profil d'un beau gosse" width="480" height="270" />
+<img src="https://github.com/user-attachments/assets/759c76ea-21a1-4491-802e-cdddf8e470de" alt="Photo de profil d'un beau gosse" width="582" height="287" />
 </p>
 
 ## Présentation
