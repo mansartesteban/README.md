@@ -24,10 +24,11 @@ Ce qui me plaît particulièrement dans le développement c'est l'architecture e
 
 [![](https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@estebanmansart6512)
 [![](https://img.shields.io/badge/YouTube-0e76a8?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanmansart)
-[![](https://img.shields.io/badge/Instagram-833AB4?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/esteban.mansart)
 [![](https://img.shields.io/badge/StackShare-008ff9?style=plastic&logo=stackshare&logoColor=white)](https://stackshare.io/estebanmansart)
 [![](https://img.shields.io/badge/FlatIcon-17d1c6?style=plastic&logo=flaticon&logoColor=white)](https://www.flaticon.com/authors/esteban-mansart)
 [![](https://img.shields.io/badge/StackOverlfow-e7700d?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14555332/esteban-mansart)
+
+[![](https://img.shields.io/badge/Instagram-833AB4?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/esteban.mansart) Ici ça ne sera pas pour du développement mais pour de la photographie 📷
 
 ## Projets en cours
 
