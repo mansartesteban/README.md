@@ -15,7 +15,18 @@
 
 ## Présentation 
 
-Je suis développeur web front/back
+Je suis développeur web front & back avec une préférence pour le front. Ce qui me plaît particulièrement dans le développement c'est l'architecture et l'organisation. J'aime passer du temps à réfléchir comment cette fonction devrait s'appeler, où ce fichier devrait se placer, comment hériter proprement cette classe, etc ... En clair j'aime la propreté, la qualité, la rigueur, les bonnes pratiques.
+
+## Me rejoindre 
+
+[https://linktr.ee/estebanmansart](https://img.shields.io/badge/LinkTree-43e660?style=plastic&logo=linktree&logoColor=white)
+
+[https://www.youtube.com/@estebanmansart6512](https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white)
+[https://www.linkedin.com/in/estebanmansart](https://img.shields.io/badge/YouTube-0e76a8?style=plastic&logo=linkedin&logoColor=white)
+[https://www.instagram.com/esteban.mansart/](https://img.shields.io/badge/Instagram-833AB4?style=plastic&logo=instagram&logoColor=white)
+[https://stackshare.io/estebanmansart](https://img.shields.io/badge/StackShare-008ff9?style=plastic&logo=stackshare&logoColor=white)
+[https://www.flaticon.com/authors/esteban-mansart](https://img.shields.io/badge/FlatIcon-17d1c6?style=plastic&logo=flaticon&logoColor=white)
+[https://stackoverflow.com/users/14555332/esteban-mansart](https://img.shields.io/badge/StackOverlfow-e7700d?style=plastic&logo=stackoverflow&logoColor=white)
 
 ## Projets en cours
 
