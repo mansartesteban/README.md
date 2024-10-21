@@ -1,5 +1,7 @@
 <h1 align="center">Esteban Mansart</h1>
 
+![](https://github.com/user-attachments/assets/a7fa3c3e-d561-4356-8303-65a85378418c)
+
 ## Présentation 
 
 Je suis développeur web front & back avec une préférence pour le front. 
