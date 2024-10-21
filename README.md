@@ -1,18 +1,5 @@
 <h1 align="center">Esteban Mansart</h1>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/estebanmansart">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Linkedin badge"
-    />
-  </a><a href="">
-    <img
-      src="https://img.shields.io/youtube/channel/subscribers/UCKyx9SKKK-gv4u9bgB-v8aw" 
-      alt="YouTube channel subscribers"
-    />
-</div>
-
 ## Présentation 
 
 Je suis développeur web front & back avec une préférence pour le front. Ce qui me plaît particulièrement dans le développement c'est l'architecture et l'organisation. J'aime passer du temps à réfléchir comment cette fonction devrait s'appeler, où ce fichier devrait se placer, comment hériter proprement cette classe, etc ... En clair j'aime la propreté, la qualité, la rigueur, les bonnes pratiques.
