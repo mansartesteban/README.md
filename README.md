@@ -11,7 +11,16 @@ Bonjour ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 Je suis développeur web front & back avec une préférence pour le front. 
 
-Ce qui me plaît particulièrement dans le développement c'est l'architecture et l'organisation. J'aime passer du temps à réfléchir comment cette fonction devrait s'appeler, où ce fichier devrait se placer, comment hériter proprement cette classe, etc ... En clair j'aime la propreté, la qualité, la rigueur, les bonnes pratiques.
+Ce qui me plaît particulièrement dans le développement c'est l'architecture et l'organisation. J'aime passer du temps à réfléchir comment cette fonction devrait s'appeler, où ce fichier devrait se placer, comment hériter proprement cette classe, etc ... En clair j'aime la propreté, la qualité, la rigueur, les bonnes pratiques. 
+
+### Vegaia
+
+Ah vous vous demandez sûrement pourquoi Vegaia 🤔
+
+Je pense que c'est un nom de marque qui me correspond bien et qui est le résultat d'un long périple.
+Vegaia est la contraction des deu noms Vega et Gaia, deux entités fortes et à sonorités impactantes.
+Vega est une des étoiles les plus brillantes du ciel septentrional et est un repère dans l'astronomie. Le nom Vega signifie "victorieux" qui est une valeur forte que je souhaite véhiculer.
+Gaia est d'origine Grecque et signifie la Terre. L'ensemble Vega et Gaia forme alors un vaste panoplie de possibilités entre ciel et terre.
 
 ### Mes points forts 
 
