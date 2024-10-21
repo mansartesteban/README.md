@@ -43,7 +43,7 @@ Je suis développeur web front/back
 			height="40"
 		/>
 	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank">
+	<a href="https://www.w3schools.com/css" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
 			alt="css3"
@@ -59,10 +59,10 @@ Je suis développeur web front/back
 			height="40"
 		/>
 	</a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 	</a>
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://www.w3.org/html" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5"
@@ -78,7 +78,7 @@ Je suis développeur web front/back
 			height="40"
 		/>
 	</a>
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
 			alt="linux"
@@ -86,7 +86,7 @@ Je suis développeur web front/back
 			height="40"
 		/>
 	</a>
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
 			alt="mongodb"
@@ -94,7 +94,7 @@ Je suis développeur web front/back
 			height="40"
 		/>
 	</a>
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 			alt="mysql"
@@ -134,7 +134,7 @@ Je suis développeur web front/back
 			height="40"
 		/>
 	</a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 			alt="typescript"
@@ -142,12 +142,181 @@ Je suis développeur web front/back
 			height="40"
 		/>
 	</a>
+	 <a href="https://www.gitkraken.com" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg"
+			alt="gitkraken"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://threejs.org" target="_blank">
+		<img
+			src="https://upload.vectorlogo.zone/logos/threejs/images/83129207-9005-4463-8181-65a3cc3bf8fd.svg"
+			alt="three js"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://vuetifyjs.com" target="_blank">
+		<img
+			src="https://github.com/gilbarbara/logos/blob/main/logos/vuetifyjs.svg"
+			alt="vuetify"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://webpack.js.org" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"
+			alt="webpack"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://vuejs.org" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"
+			alt="vuejs"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://primevue.org" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/dochne/wappalyzer/953a28c681b9a0d829a81a1174ec14e975eee245/src/images/icons/PrimeVue.svg"
+			alt="primevue"
+			width="40"
+			height="40"
+		/>
+	</a>
+<a href="https://zeroheight.com" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/zeroheight-icon.svg"
+			alt="zero height"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://bitbucket.org" target="_blank">
+		<img
+			src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg"
+			alt="bitbucket"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://vite.dev" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"
+			alt="vite"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://vitest.dev" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/vitest.svg"
+			alt="vitest"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://code.visualstudio.com" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/bestofjs/bestofjs/78c0bf1f9691f623d06566fbf7442922b8fd771f/apps/bestofjs-nextjs/public/logos/vscode.svg"
+			alt="vscode"
+			width="40"
+			height="40"
+		/>
+	</a>
+
+ 
+
+</p>
+
+### Collaboration & création
+
+<p align="left">
+	<a href="https://www.notion.so" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/notion-icon.svg"
+			alt="notion"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://trello.com" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
+			alt="trello"
+			width="40"
+			height="40"
+		/>
+	</a>
+<a href="https://www.atlassian.com/fr/software/jira" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"
+			alt="jira"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://slack.com" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"
+			alt="slack"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://inkscape.org" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"
+			alt="inkscape"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://adobexdplatform.com" target="_blank">
+		<img
+			src="https://vectorwiki.com/images/afpgO__adobe-xd.svg"
+			alt="adobe xd"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.figma.com" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+			alt="figma"
+			width="40"
+			height="40"
+		/>
+	</a>
+ <a href="https://fontawesome.com" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-icon.svg"
+			alt="font awesome"
+			width="40"
+			height="40"
+		/>
+	</a>
+	 <a href="https://plane.so/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/745e5d9249f2c847d58de5f1fd7ba4de2f63918e/assets/plane.svg"
+			alt="plane"
+			width="40"
+			height="40"
+		/>
+	</a>
+	
 </p>
 
 ### Apprentissage
 
 <p align="left">
-	<a href="https://www.docker.com/" target="_blank">
+	<a href="https://www.docker.com" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
 			alt="docker"
@@ -166,5 +335,30 @@ Je suis développeur web front/back
 			height="40"
 		/>
 	</a>
+<a href="https://unity.com" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+			alt="unity3d"
+			width="40"
+			height="40"
+		/>
+	</a>
+ <a href="https://www.unrealengine.com" target="_blank">
+		<img
+			src="https://vectorwiki.com/images/JyRje__unreal.svg"
+			alt="unreal engine"
+			width="40"
+			height="40"
+		/>
+	</a>
+	 <a href="https://www.blender.org" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/blender.svg"
+			alt="blender"
+			width="40"
+			height="40"
+		/>
+	</a>
+ 
 </p>
   
