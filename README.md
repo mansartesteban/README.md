@@ -6,6 +6,8 @@
 
 ## Présentation 
 
+Bonjour ! ![](https://giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 Je suis développeur web front & back avec une préférence pour le front. 
 
 Ce qui me plaît particulièrement dans le développement c'est l'architecture et l'organisation. J'aime passer du temps à réfléchir comment cette fonction devrait s'appeler, où ce fichier devrait se placer, comment hériter proprement cette classe, etc ... En clair j'aime la propreté, la qualité, la rigueur, les bonnes pratiques.
