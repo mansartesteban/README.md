@@ -6,7 +6,7 @@
 
 ## Présentation 
 
-Bonjour ! ![](https://giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+Bonjour ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 Je suis développeur web front & back avec une préférence pour le front. 
 
