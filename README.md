@@ -2,7 +2,21 @@
 
 ## Présentation 
 
-Je suis développeur web front & back avec une préférence pour le front. Ce qui me plaît particulièrement dans le développement c'est l'architecture et l'organisation. J'aime passer du temps à réfléchir comment cette fonction devrait s'appeler, où ce fichier devrait se placer, comment hériter proprement cette classe, etc ... En clair j'aime la propreté, la qualité, la rigueur, les bonnes pratiques.
+Je suis développeur web front & back avec une préférence pour le front. 
+
+Ce qui me plaît particulièrement dans le développement c'est l'architecture et l'organisation. J'aime passer du temps à réfléchir comment cette fonction devrait s'appeler, où ce fichier devrait se placer, comment hériter proprement cette classe, etc ... En clair j'aime la propreté, la qualité, la rigueur, les bonnes pratiques.
+
+### Mes points forts 
+
+- 🎯 Rigueur
+- ✨ Qualité
+- 📦 Organisation
+
+### Mes points faibles
+
+- 😜 Trop fort 
+- 🧠 Je comprends vite mais il faut m'expliquer longtemps
+- 🔍 Assertif
 
 ## Me rejoindre 
 
@@ -17,9 +31,9 @@ Je suis développeur web front & back avec une préférence pour le front. Ce qu
 
 ## Projets en cours
 
-- **[JeeSee Engine](https://github.com/mansartesteban/jeesee)** : Moteur de jeu vidéo 2D/3D basé sur le web en JavaScript avec Three.js (3D) et canvas (2D)
-- **[Space Inc](https://github.com/mansartesteban/Space-Inc)**: Jeu vidéo incrémental/idle utilisant le projet [JeeSee Engine](https://github.com/mansartesteban/jeesee). Je me sers de ce jeu également pour améliorer le projet JeeSee Engine en parallèle.
-- **[Walletaya](https://github.com/mansartesteban/Walletaya)**: Application permettant de calculer les gains/pertes investis en crypto monnaie (façon CoinMarketCap) avec personnalisation de règle de calcul.
+- **[JeeSee Engine](https://github.com/mansartesteban/jeesee)** : 🎮 Moteur de jeu vidéo 2D/3D basé sur le web en JavaScript avec Three.js (3D) et canvas (2D)
+- **[Space Inc](https://github.com/mansartesteban/Space-Inc)**: 🎮 Jeu vidéo incrémental/idle utilisant le projet [JeeSee Engine](https://github.com/mansartesteban/jeesee). Je me sers de ce jeu également pour améliorer le projet JeeSee Engine en parallèle.
+- **[Walletaya](https://github.com/mansartesteban/Walletaya)**: 📈 Application permettant de calculer les gains/pertes investis en crypto monnaie (façon CoinMarketCap) avec personnalisation de règle de calcul.
 
 ## Langages & outils
 
