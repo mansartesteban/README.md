@@ -1,6 +1,6 @@
 <h1 align="center">Esteban Mansart</h1>
 
-![](https://github.com/user-attachments/assets/a7fa3c3e-d561-4356-8303-65a85378418c)
+<img src="https://github.com/user-attachments/assets/a7fa3c3e-d561-4356-8303-65a85378418c" width="160" height='90 />
 
 ## Présentation 
 
