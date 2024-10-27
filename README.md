@@ -39,7 +39,7 @@ Gaia est d'origine Grecque et signifie la terre 🌎. L'ensemble Vega et Gaia fo
 [![](https://img.shields.io/badge/LinkTree-43e660?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/estebanmansart)
 
 [![](https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@estebanmansart6512)
-[![](https://img.shields.io/badge/YouTube-0e76a8?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanmansart)
+[![](https://img.shields.io/badge/LinkedIn-0e76a8?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanmansart)
 [![](https://img.shields.io/badge/StackShare-008ff9?style=plastic&logo=stackshare&logoColor=white)](https://stackshare.io/estebanmansart)
 [![](https://img.shields.io/badge/FlatIcon-17d1c6?style=plastic&logo=flaticon&logoColor=white)](https://www.flaticon.com/authors/esteban-mansart)
 [![](https://img.shields.io/badge/StackOverlfow-e7700d?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14555332/esteban-mansart)
