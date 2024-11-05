@@ -36,6 +36,8 @@ Gaia est d'origine Grecque et signifie la terre 🌎. L'ensemble Vega et Gaia fo
 
 ## Me rejoindre 
 
+[https://mansartesteban.vercel.app/](https://mansartesteban.vercel.app/)
+
 [![](https://img.shields.io/badge/LinkTree-43e660?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/estebanmansart)
 
 [![](https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@estebanmansart6512)
